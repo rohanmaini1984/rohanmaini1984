@@ -23,6 +23,29 @@ I believe good architecture is not about selecting technologies. It is about und
 | Infrastructure Intelligence | vRealize Network Insight (vRNI) |
 | Automation | Terraform fundamentals, Infrastructure as Code |
 
+
+---
+
+## Selected Architecture Projects
+
+### SDDC CPU Alert Intelligence & Operational Analytics
+
+Designed an infrastructure alert-processing workflow integrating VMware vROps, Microsoft Power Automate, Outlook, SharePoint and Power BI.
+
+- Automated alert email processing and data extraction.
+- Implemented Alert ID-based record matching.
+- Updated existing records when alert severity or state changed.
+- Structured operational data for Power BI analytics.
+
+[View Project Documentation](https://github.com/rohanmaini1984/rohanarchitect/tree/main/projects/sddc-cpu-alert-intelligence)
+
+### Hybrid Cloud Networking — Why It Fails in Real Environments
+
+Technical architecture article examining hybrid cloud networking challenges, traffic flows, routing behaviour and design considerations.
+
+[Read Architecture Article](https://rohanmaini1984.github.io/rohanarchitect/post1.html)
+
+
 ## Architecture Interests
 
 I actively explore architecture decisions and technology developments across:
