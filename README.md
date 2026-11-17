@@ -56,6 +56,26 @@ Technical architecture article examining hybrid cloud networking challenges, tra
 - AWS Certified Cloud Practitioner
 - Microsoft Certified: Azure Network Engineer Associate (AZ-700)
 
+
+---
+
+## Professional Experience
+
+### Kyndryl India
+**Senior Lead – Infrastructure Specialist**
+
+- Working across enterprise infrastructure and Azure environments.
+- Focus areas include cloud infrastructure, networking and hybrid cloud architecture.
+
+### Previous Professional Experience
+
+- **VMware, Bangalore** — Enterprise virtualization and infrastructure.
+- **Cybernet Slash Support** — Escalation Lead, Juniper JTAC support.
+- **Paxterra Software Solutions** — Lead Engineer.
+- **Radals Technology** — Systems Administration.
+
+My professional experience spans enterprise networking, infrastructure operations, virtualization, cloud connectivity, technical escalations and infrastructure architecture.
+
 ## Architecture Interests
 
 I actively explore architecture decisions and technology developments across:
@@ -68,16 +88,6 @@ I actively explore architecture decisions and technology developments across:
 - Enterprise Infrastructure Modernization
 - Distributed Systems, Reliability and Observability
 - Network Security and Zero Trust
-
-## Professional Certifications
-
-- VMware VCP-NV
-- VMware VCIX
-- Juniper JNCIP
-- Juniper SCPE
-- AWS Certified Cloud Practitioner
-
-**Currently preparing:** Microsoft AZ-700 – Designing and Implementing Microsoft Azure Networking Solutions.
 
 ## Technical Writing & Architecture Insights
 
