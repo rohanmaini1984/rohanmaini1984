@@ -45,6 +45,16 @@ Technical architecture article examining hybrid cloud networking challenges, tra
 
 [Read Architecture Article](https://rohanmaini1984.github.io/rohanarchitect/post1.html)
 
+---
+
+## Certifications & Professional Credentials
+
+- VMware VCP-NV
+- VMware VCIX
+- Juniper JNCIP
+- SCPE
+- AWS Certified Cloud Practitioner
+- Microsoft Certified: Azure Network Engineer Associate (AZ-700)
 
 ## Architecture Interests
 
